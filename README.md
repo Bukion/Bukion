@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jovan Stameski
 
-🎯 **Aspiring Data Analyst**  
+🎯 **Data Analyst**  
 📍 UK / Remote  
 📊 Turning data into clear, actionable business insights
 
